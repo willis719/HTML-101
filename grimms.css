@@ -1,0 +1,41 @@
+body {
+    background: linear-gradient(green, orange, purple);
+    text-align: center;
+    font-family: cursive;
+}
+
+.story-title {
+    margin-bottom: 40px;
+}
+
+
+.chapter-one {
+    color: purple;
+    transform: rotate(2deg);
+}
+
+.chapter-two {
+    color: snow;
+    transform: rotate3d(1, 1, 1, 20deg);
+    margin-top: 120px;
+}
+
+.chapter-three {
+    color: firebrick;
+    transform: rotate3d(2, -1, -1, -0.2turn);
+    margin-bottom: 120px;
+}
+
+.chapter-four {
+    color: indigo;
+    transform: rotate3d(2, 1, 1, -0.2turn);
+    margin-top: 120px;
+}
+
+.chapter-five {
+    color: peru;
+    transform: rotate3d(0, 1, 0.5, 3.142rad);
+    font-size: 20px;
+}
+
+

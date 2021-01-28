@@ -1,0 +1,20 @@
+hr {
+   height: 2px;
+   background-color: black; 
+}
+
+.first {
+    height: 20px;
+}
+
+.second {
+    height: 30px;
+}
+
+.third {
+    height: 40px;
+}
+
+.fourth {
+    height: 50px;
+}
